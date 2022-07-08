@@ -1,0 +1,8 @@
+{
+    "mongo_uri": "mongodb://root:root@localhost:9018/admin",
+    "rabbitmq_uri": "amqp://root:root@127.0.0.1:5671",
+    "queue_name": "logger-go-api",
+    "port": 8080,
+    "database": "nisit",
+    "collection": "info"
+}

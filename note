@@ -1,0 +1,3 @@
+https://pulse.mozilla.org/api/index.html  endpoint: /api/exchanges/vhost/name/publish
+
+https://github.com/wisesight/account-api-sna/blob/main/src/adapters/queue.adapter.ts
